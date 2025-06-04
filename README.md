@@ -8,15 +8,11 @@ Aplicativo Flutter desenvolvido para a disciplina de Programação Mobile, com f
 
 ## Demonstração
 
-
-
 https://github.com/user-attachments/assets/81266912-debc-4e60-aa15-f196efdcf2d3
-
 
 ## Deploy
 
 [🔗 Acesse o app online](https://app-conhecimento-gerais.vercel.app/)
-
 
 ## Funcionalidades
 
@@ -48,7 +44,7 @@ lib/
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/gabrielstorti55/App-conhecimento-gerais.git
+    git clone https://github.com/gabrielstorti55/Quizzz-app.git
     ```
 2. Acesse a pasta do projeto:
     ```bash
