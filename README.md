@@ -10,6 +10,9 @@ Aplicativo Flutter desenvolvido para a disciplina de Programação Mobile, com f
 
 
 
+https://github.com/user-attachments/assets/81266912-debc-4e60-aa15-f196efdcf2d3
+
+
 ## Deploy
 
 [🔗 Acesse o app online](https://app-conhecimento-gerais.vercel.app/)
