@@ -1,6 +1,19 @@
 # Flutter Trabalho 2B
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 Aplicativo Flutter desenvolvido para a disciplina de Programação Mobile, com foco em perguntas de conhecimentos gerais. O app possui interface amigável, navegação entre telas e gerenciamento de estado.
+
+## Demonstração
+
+
+
+## Deploy
+
+[🔗 Acesse o app online](https://app-conhecimento-gerais.vercel.app/)
+
 
 ## Funcionalidades
 
